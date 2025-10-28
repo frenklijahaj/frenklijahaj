@@ -6,9 +6,9 @@
 
 ###
 
-<p align="left">I am a Computer Information Systems major at Macaulay Honors College, Baruch College, with a minor in Economics and Finance. I have a strong passion for AI development, data science, and machine learning. Through internships and personal projects, I’ve gained hands-on experience in building scalable applications, optimizing machine learning models, and working with large datasets.
+<p align="left">I am a Computer Information Systems major at Macaulay Honors College, Baruch College, with a minor in Economics and Finance. I’m passionate about the intersection of technology and innovation, especially how AI and emerging technologies can be used to create meaningful impact.
 
-I thrive on tackling challenges that push my skills further, whether it’s refining predictive models, enhancing data pipelines, or exploring new AI techniques. I especially enjoy discovering innovative ways to apply AI to real-world problems and extracting meaningful insights from data. As I continue to grow, I’m excited about opportunities to leverage technology in meaningful and impactful ways.</p>
+Through internships and personal projects, I’ve gained experience working in client-facing settings, contributing to scalable solutions, and collaborating with cross-functional teams to deliver meaningful results. I enjoy bridging technical understanding with practical applications, whether it’s integrating emerging technologies into products, supporting technology implementations, or helping teams bring new ideas to life. I’m particularly drawn to responsible AI and its potential to shape a more thoughtful and impactful future.</p>
 
 ###
 
