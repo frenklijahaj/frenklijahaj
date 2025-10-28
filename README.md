@@ -8,7 +8,9 @@
 
 <p align="left">I am a Computer Information Systems major at Macaulay Honors College, Baruch College, with a minor in Economics and Finance. I’m passionate about the intersection of technology and innovation, especially how AI and emerging technologies can be used to create meaningful impact.
 
-Through internships and personal projects, I’ve gained experience working in client-facing settings, contributing to scalable solutions, and collaborating with cross-functional teams to deliver meaningful results. I enjoy bridging technical understanding with practical applications, whether it’s integrating emerging technologies into products, supporting technology implementations, or helping teams bring new ideas to life. I’m particularly drawn to responsible AI and its potential to shape a more thoughtful and impactful future.</p>
+Through internships and personal projects, I’ve gained experience working in client-facing settings, contributing to scalable solutions, and collaborating with cross-functional teams to deliver meaningful results. I enjoy bridging technical understanding with practical applications, whether it’s integrating emerging technologies into products, supporting technology implementations, or helping teams bring new ideas to life. I’m particularly drawn to responsible AI and its potential to shape a more thoughtful and impactful future.
+
+I’m excited to keep growing in spaces where technology is used to solve meaningful problems and drive innovation.</p>
 
 ###
 
